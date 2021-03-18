@@ -10,7 +10,8 @@ namespace A891932.Actividad01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Hola Mundo, Soy la actividad nº 1!\n\nPresione una tecla para salir...");
+            Console.ReadKey();
         }
     }
 }
